@@ -13,22 +13,3 @@ btnEnviar.addEventListener("click", () => {
   console.log("el area es" base * altura);
   
   
-  // Acá va nuestro código
-  
-  //dato.value = "hola" ;
-  // console.log("rotulo");
-}); //
-
-
-
-//let btnEnviar = <HTMLButtonElement>document.getElementById("btnEnviar");
-//let dato = <HTMLInputElement>document.getElementById("dato");
-
-//let rotulo = <HTMLParagraphElement>document.getElementById("rotulo");
-//let nombre: string;
-
-//btnEnviar.addEventListener("click", () => {
-  // Acá va nuestro código
-  //rotulo.innerHTML = "Dato"
-  //nombre = dato.value;
-//});
